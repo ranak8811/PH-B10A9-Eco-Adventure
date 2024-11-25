@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "country": "Switzerland",
+    "title": "Places in Switzerland",
+    "description": "Explore the best of Zurich, Interlaken, Zermatt, and Lucerne.",
+    "image": "https://i.ibb.co.com/K67Y9mz/switzerland.jpg",
+    "rating": 4.86,
+    "reviews": "112k",
+    "tags": ["Zurich", "Interlaken", "Zermatt", "Lucerne"]
+  },
+  {
+    "id": 2,
+    "country": "Italy",
+    "title": "Places in Italy",
+    "description": "Discover Rome, Venice, Florence, and Amalfi Coast.",
+    "image": "https://i.ibb.co.com/hffd7b0/italy.webp",
+    "rating": 4.9,
+    "reviews": "89k",
+    "tags": ["Rome", "Venice", "Florence", "Amalfi"]
+  },
+  {
+    "id": 3,
+    "country": "France",
+    "title": "Places in France",
+    "description": "Wander through Paris, Lyon, Nice, and Bordeaux.",
+    "image": "https://i.ibb.co.com/0GRJfpx/france.jpg",
+    "rating": 4.8,
+    "reviews": "125k",
+    "tags": ["Paris", "Lyon", "Nice", "Bordeaux"]
+  },
+  {
+    "id": 4,
+    "country": "Japan",
+    "title": "Places in Japan",
+    "description": "Experience Tokyo, Kyoto, Osaka, and Mount Fuji.",
+    "image": "https://i.ibb.co.com/7ggcr8B/japan.webp",
+    "rating": 4.95,
+    "reviews": "145k",
+    "tags": ["Tokyo", "Kyoto", "Osaka", "Mount Fuji"]
+  }
+]

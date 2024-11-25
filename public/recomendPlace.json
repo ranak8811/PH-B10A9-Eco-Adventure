@@ -1,0 +1,30 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Xy1Hy1s/sandar-beach.jpg",
+    "title": "Surfing at Sundak Beach",
+    "description": "Experience stunning sunsets, white-washed buildings, and crystal-clear waters.",
+    "price": "$250.00",
+    "buttonText": "Booking Trip"
+  },
+  {
+    "image": "https://i.ibb.co.com/6Wx2Ps8/progo.jpg",
+    "title": "Rafting at Progo",
+    "description": "Experience thrilling white-water rafting adventures.",
+    "price": "$125.00",
+    "buttonText": "Booking Trip"
+  },
+  {
+    "image": "https://i.ibb.co.com/j3WqZTQ/baturaden.jpg",
+    "title": "Baturaden Bobocabin",
+    "description": "Experience stunning sunsets, white-washed buildings, and crystal-clear waters.",
+    "price": "$150.00",
+    "buttonText": "Booking Trip"
+  },
+  {
+    "image": "https://i.ibb.co.com/bsgwGRr/dieng.jpg",
+    "title": "Dieng Villa View",
+    "description": "Experience stunning sunsets, white-washed buildings, and crystal-clear waters.",
+    "price": "$750.00",
+    "buttonText": "Booking Trip"
+  }
+]

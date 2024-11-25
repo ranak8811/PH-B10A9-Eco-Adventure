@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "adventure_title": "Mountain Trekking in the Alps",
+    "image": "https://i.ibb.co.com/NSNvxBm/mountain-trekking.webp",
+    "category_name": "Mountain Treks",
+    "short_description": "A challenging and scenic trek through the Alps, perfect for seasoned hikers.",
+    "adventure_cost": 1200,
+    "booking_availability": "Available",
+    "location": "Swiss Alps, Switzerland",
+    "duration": "7 days",
+    "adventure_level": "Advanced",
+    "included_items": [
+      "Guided trekking",
+      "Camping gear",
+      "Meals (Breakfast, Lunch, Dinner)",
+      "Transportation to trailhead"
+    ],
+    "eco_friendly_features": [
+      "Use of sustainable camping equipment",
+      "Eco-friendly transportation options",
+      "Zero waste policy"
+    ],
+    "max_group_size": 10,
+    "special_instructions": [
+      "Bring appropriate clothing for cold weather",
+      "Must have previous hiking experience",
+      "Ensure proper physical conditioning"
+    ]
+  },
+  {
+    "id": 2,
+    "adventure_title": "Scuba Diving in the Great Barrier Reef",
+    "image": "https://i.ibb.co.com/S0bfMBm/scuba-diving.jpg",
+    "category_name": "Ocean Dives",
+    "short_description": "Explore the vibrant marine life of the Great Barrier Reef with certified dive instructors.",
+    "adventure_cost": 900,
+    "booking_availability": "Available",
+    "location": "Great Barrier Reef, Australia",
+    "duration": "5 days",
+    "adventure_level": "Intermediate",
+    "included_items": [
+      "Scuba diving equipment",
+      "Certified dive instructors",
+      "Meals (Breakfast, Lunch)",
+      "Boat transportation to dive sites"
+    ],
+    "eco_friendly_features": [
+      "Marine life conservation efforts",
+      "Eco-friendly dive equipment",
+      "No-touch policy on coral reefs"
+    ],
+    "max_group_size": 12,
+    "special_instructions": [
+      "Must have open-water diving certification",
+      "No sunscreen allowed on the reef"
+    ]
+  },
+  {
+    "id": 3,
+    "adventure_title": "African Wildlife Safari",
+    "image": "https://i.ibb.co.com/cwCpTRM/wildlife-safari.jpg",
+    "category_name": "Wildlife Safaris",
+    "short_description": "A guided safari through African savannas, offering an up-close experience with wildlife.",
+    "adventure_cost": 2500,
+    "booking_availability": "Limited",
+    "location": "Serengeti National Park, Tanzania",
+    "duration": "10 days",
+    "adventure_level": "Easy",
+    "included_items": [
+      "Safari guide",
+      "Game drives in 4x4 vehicles",
+      "Meals and drinks (All-inclusive)",
+      "Park entry fees"
+    ],
+    "eco_friendly_features": [
+      "Support for wildlife conservation",
+      "Eco-lodges and sustainable accommodations",
+      "Minimal environmental impact"
+    ],
+    "max_group_size": 15,
+    "special_instructions": [
+      "Bring binoculars and a camera",
+      "Be mindful of wildlife safety"
+    ]
+  },
+  {
+    "id": 4,
+    "adventure_title": "Forest Expedition in the Amazon",
+    "image": "https://i.ibb.co.com/qRBpsGb/forest-expedition.webp",
+    "category_name": "Forest Expeditions",
+    "short_description": "Venture deep into the Amazon rainforest to explore its biodiversity and learn about conservation efforts.",
+    "adventure_cost": 1800,
+    "booking_availability": "Available",
+    "location": "Amazon Rainforest, Brazil",
+    "duration": "8 days",
+    "adventure_level": "Intermediate",
+    "included_items": [
+      "Local guide",
+      "Accommodation in eco-lodges",
+      "Meals (Full board)",
+      "Rainforest survival training"
+    ],
+    "eco_friendly_features": [
+      "Sustainable rainforest tourism",
+      "Wildlife conservation education",
+      "Support for indigenous communities"
+    ],
+    "max_group_size": 8,
+    "special_instructions": [
+      "Wear light, breathable clothing",
+      "Insect repellent recommended",
+      "Must be comfortable with humid conditions"
+    ]
+  },
+  {
+    "id": 5,
+    "adventure_title": "Desert Exploration in the Sahara",
+    "image": "https://i.ibb.co.com/PN84QN9/desert-exploration.jpg",
+    "category_name": "Desert Exploration",
+    "short_description": "Explore the majestic dunes of the Sahara Desert on a camel trek with expert guides.",
+    "adventure_cost": 1500,
+    "booking_availability": "Available",
+    "location": "Sahara Desert, Morocco",
+    "duration": "6 days",
+    "adventure_level": "Advanced",
+    "included_items": [
+      "Camel ride",
+      "Meals (All meals included)",
+      "Accommodation in desert tents",
+      "Camel support team"
+    ],
+    "eco_friendly_features": [
+      "Eco-friendly desert camps",
+      "Low environmental impact travel",
+      "Support for local nomadic communities"
+    ],
+    "max_group_size": 10,
+    "special_instructions": [
+      "Bring sunscreen and a wide-brimmed hat",
+      "Prepare for extreme temperature changes",
+      "Travelers should be comfortable with long camel rides"
+    ]
+  }
+]
